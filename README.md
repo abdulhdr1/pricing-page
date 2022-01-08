@@ -1,4 +1,4 @@
-# pricing-page
+# Pricing Page
 React and SQLite application, using typescript and sequelize
 
 Also used Express and Bootstrap 5
